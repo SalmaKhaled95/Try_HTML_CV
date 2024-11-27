@@ -1,4 +1,4 @@
-I was playing around making an expandable CV with pdf embedded within...
+I was playing around making an expandable CV with pdf embedded within... </br>
 click here https://salmakhaled95.github.io/Try_HTML_CV/
 Step1: Download the python notebook ,ipynb
 Run it on google colab, it will generate the expandable html CV
